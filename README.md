@@ -1,20 +1,31 @@
-# Welcome to Dissu33!
+# Hi there, I'm Deepak Chauhan 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dissu33&show_icons=true&hide_title=true&bg_color=ffffff00&text_color=333&icon_color=0366d6&border_radius=10&title_color=0366d6)
+## 💻 Full Stack Developer
 
-## Alternative Services
-- [Example Service 1](https://example1.com)
-- [Example Service 2](https://example2.com)
+🌟 Passionate about creating interactive applications and engaging user experiences.
 
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
+## 🎓 Education
 
-## Getting Started
-1. Clone the repository
-2. Install dependencies
-3. Start the application
+🎓 **CGC Landran** 
+   - **Bachelor's Degree in Computer Science**  
+   - **2021 - 2025**
 
-## Contact
-For questions or inquiries, feel free to reach out!
+## 🌐 Portfolio
+
+👉 [Check out my portfolio!](https://deepak-chauhan-portfolio.vercel.app/)
+
+## 🛠️ Technologies & Tools
+
+- JavaScript
+- Python
+- React
+- Node.js
+- MongoDB
+- HTML & CSS
+
+## 📫 Connect with me:
+
+- [LinkedIn](https://www.linkedin.com/in/deepak-chauhan/)  
+- [Twitter](https://twitter.com/deepak_chauhan)  
+
+Thank you for visiting my profile! 🌟
