@@ -1,15 +1,20 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Building production-ready MERN stack projects with real-world features like authentication, role-based access, dashboards, and deployment.<br>👯 I’m looking to collaborate on<br>Web development projects, startups, or freelance work where I can contribute to frontend (React/Next.js) or full-stack MERN applications.<br>🤝 I’m looking for help with<br>Improving system design, backend scalability, and writing cleaner, more maintainable production code.<br>🌱 I’m currently learning<br>Advanced React patterns, Next.js, backend optimization with Node.js, and practical system design for real applications.<br><br>💬 Ask me about<br>MERN stack, React, REST APIs, MongoDB, deployment (Vercel/Render), or building full-stack projects from scratch.<br><br>⚡ Fun fact<br>I learn faster by building and breaking real projects than by watching endless tutorials.
+# Welcome to Dissu33!
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dissu33&show_icons=true&hide_title=true&bg_color=ffffff00&text_color=333&icon_color=0366d6&border_radius=10&title_color=0366d6)
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dissu33&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dissu33&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dissu33&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## Alternative Services
+- [Example Service 1](https://example1.com)
+- [Example Service 2](https://example2.com)
 
----
-[![](https://visitcount.itsvg.in/api?id=Dissu33&icon=0&color=0)](https://visitcount.itsvg.in)
+## Features
+- Feature 1
+- Feature 2
+- Feature 3
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Getting Started
+1. Clone the repository
+2. Install dependencies
+3. Start the application
+
+## Contact
+For questions or inquiries, feel free to reach out!
